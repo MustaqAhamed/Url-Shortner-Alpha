@@ -5,7 +5,7 @@ This is a simple URL Shortner App developed using technologies:-
 2. Node.js
 3. Mongoose
 
-This project was developed for Kinara Capital Recruitment for [problem statment] (https://gitlab.com/kinara/hiring/-/blob/main/FullStackTask.md)
+This project was developed for Kinara Capital Recruitment for problem statment (https://gitlab.com/kinara/hiring/-/blob/main/FullStackTask.md)
 
 This code is written from a tutorial referred in youtube from Web Dev Simplified (https://www.youtube.com/watch?v=SLpUKAGnm-g)
 
