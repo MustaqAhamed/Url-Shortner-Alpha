@@ -14,4 +14,4 @@ Platform - VS Code
 
 ![URL Shortner](https://user-images.githubusercontent.com/44725818/196029792-e2fbfa9e-9945-4ca3-87cb-2d5239fe6814.jpeg)
 
-Updates ad Modifications will be added in the coming future.
+Updates and Modifications will be added in the coming future.
